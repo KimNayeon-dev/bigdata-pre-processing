@@ -16,4 +16,4 @@
 - wordcloud
 <br><br>
 
-![3](https://user-images.githubusercontent.com/117414956/201077958-ff28fe5c-9d87-4a0e-96ed-63c74ff9b69a.png)
+![naverNews_wordCloud_heart](https://user-images.githubusercontent.com/117414956/207276483-65980576-b7c5-477a-b097-959d3758c69e.png)
